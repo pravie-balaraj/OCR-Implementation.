@@ -8,3 +8,9 @@
 *classifier.py has the implementation for both classifier and detector.
 
 To run this you have to download the dataset chars74k-lite.
+
+Different classic Machine learning algorithms are implemented with confusion matrix.
+*SVM
+*KNN
+*Logistic regression
+*Random forest.
